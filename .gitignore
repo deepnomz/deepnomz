@@ -91,3 +91,5 @@ ENV/
 
 # Don't include images in version control
 data/*
+saved_models/*
+cvs/*
